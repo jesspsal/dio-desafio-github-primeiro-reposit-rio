@@ -1,2 +1,7 @@
-Link para download do Git: https://git-scm.com/downloads
-O Git Bash é um terminal extendido para otimizar o uso do Git.
+* Link para download do Git: https://git-scm.com/downloads
+* O Git Bash é um terminal extendido para otimizar o uso do Git.
+* Untracket - novo arquivo
+* Unmodified - novo dentro não sofreu modificação(se remove volta para Untracked
+* modified - depois de editado muda o SHA1
+* Staged - entra em área especial para entrar em ação (dar um commit) deixa de ser staged e se tornam commit e volta para unmodified
+
